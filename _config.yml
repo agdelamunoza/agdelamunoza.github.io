@@ -13,15 +13,15 @@ style: styles-2
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+name: Alejandro Gómez de la Muñoza
+tagline: Filólogo, traductor y localizador
+pic: profile.png
 
 #sidebar links
-email: alan.doe@website.com
-phone: 012 345 6789
-website: blog.webjeda.com
-linkedin: alandoe
-github: alandoe
-twitter: '@twittername'
+email: alejandrogdelamunoza@outlook.com
+phone:
+website: agdelamunoza.es
+linkedin: agdelamunuza
+github: agdelamunoza
+twitter: '@agdelamunoza'
 
