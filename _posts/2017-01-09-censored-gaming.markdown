@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2017-01-09
-img: censored.png
+img: game.png
 alt: YouTube Channel Censored Gaming
 project-date: January 2017
 client: Censored Gaming
