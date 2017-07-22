@@ -19,7 +19,7 @@ lang: es-ES
 # Header Title
 header-title: Create the <strong>Impossible</strong>
 # Header Tagline
-headter-tagline: We Always
+headter-tagline: We Always Hah!
 
 ####################################
 ######   CTA Header Buttons   ######
@@ -63,7 +63,7 @@ banner-link: https://themeforest.net/collections/6069390-sera
 youtube: '#'
 pinterest: '#'
 facebook: '#'
-twitter: '#'
+twitter: 'agdelamunoza'
 google-plus: '#'
 vimeo: '#'
 
@@ -88,7 +88,7 @@ about-widget:
 
 # Google Map JS api
 # This is my api for this template
-key-api: AIzaSyDbnxVZQannH0GF4gtnnBFPiP9ofm2WqGs
+key-api: 
 map-text: Sera Google Map
 map-text-location: Bucharest, Romania
 map-lat: 44.4267674
